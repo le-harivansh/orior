@@ -3,6 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "Harivansh",
+    "email": "hello@harivan.sh",
+    "url": "https://harivan.sh"
+  },
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
